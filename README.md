@@ -1,9 +1,12 @@
 ### Hi there 👋, I'm Yi Sun.
 
-- 🔭 I’m currently working on [Galvr](https://galvr.dev/)
+- 🔭 I’m currently working on [Galvr](https://galvr.dev/).
 - 🌱 I’m currently deepening my knowledge in GraphQL, AWS and Next.js. 
-- 📫 How to reach me: [timyisun@gmail.com](mailto:timyisun@gmail.com)
+- 📫 How to reach me: [timyisun@gmail.com](mailto:timyisun@gmail.com).
 - ⚡ Fun fact: I love playing CRPGs and definetly going to try Baldur's Gate 3 when I get the time.
+
+![yisun88's Stats](https://github-readme-stats.vercel.app/api?username=yisun88&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![yisun88's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yisun88&theme=dark&hide_border=true)
 
 <!--
 **YiSun88/YiSun88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
