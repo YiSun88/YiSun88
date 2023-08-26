@@ -1,8 +1,9 @@
 # Hi there 👋, I'm Yi Sun.
 
 - 🔭 I’m currently working on [Galvr](https://galvr.dev/).
-- 📚 I’m currently deepening my knowledge in GraphQL, AWS and Next.js. 
-- 📩 How to reach me: [timyisun@gmail.com](mailto:timyisun@gmail.com).
+- 📚 I’m currently deepening my knowledge in GraphQL, AWS and Next.js.
+- 🌎 Connect with me: [linkedin.com/in/yi-sun-swe](https://www.linkedin.com/in/yi-sun-swe/)
+- 📩 How to email me: [timyisun@gmail.com](mailto:timyisun@gmail.com).
 - 🎮 Fun fact: I love playing CRPGs and definetly going to try Baldur's Gate 3 when I get the time.
 
 ### Languages and Tools:
