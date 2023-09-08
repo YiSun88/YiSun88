@@ -44,8 +44,8 @@
 </div>
 <br/>
 
-![yisun88's Stats](https://github-readme-stats.vercel.app/api?username=yisun88&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![yisun88's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yisun88&theme=dark&hide_border=true)
+![Yi's GitHub stats](https://github-readme-stats-beryl-beta-73.vercel.app/api?username=YiSun88&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![yi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yisun88&theme=dark&hide_border=true)
 
 <!--
 **YiSun88/YiSun88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
