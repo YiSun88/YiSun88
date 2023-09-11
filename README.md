@@ -45,7 +45,8 @@
 <br/>
 
 ![Yi's GitHub stats](https://github-readme-stats-beryl-beta-73.vercel.app/api?username=YiSun88&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Yi's Top Langs](https://github-readme-stats-beryl-beta-73.vercel.app/api/top-langs/?username=YiSun88&hide_progress=true)
+<br/>
+![Yi's Top Langs](https://github-readme-stats-beryl-beta-73.vercel.app/api/top-langs/?username=YiSun88&hide_progress=true&hide=java&theme=dark&hide_border=true)
 <!--
 ![yi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yisun88&theme=dark&hide_border=true)
 -->
