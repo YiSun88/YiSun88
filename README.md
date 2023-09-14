@@ -46,11 +46,12 @@
 
 ![Yi's GitHub stats](https://github.com/YiSun88/github-readme-stats/raw/resource/grs/stats.svg)
 <br/>
-![Yi's Top Langs](https://github-readme-stats-beryl-beta-73.vercel.app/api/top-langs/?username=YiSun88&hide_progress=true&hide=java&theme=dark&hide_border=true)
+![Yi's Top Langs](https://github.com/YiSun88/github-readme-stats/raw/resource/lang/langs.svg)
 
 <!--
 Original url from the upstream repo, without Github Action for caching.
 ![Yi's GitHub stats](https://github-readme-stats-beryl-beta-73.vercel.app/api?username=YiSun88&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Yi's Top Langs](https://github-readme-stats-beryl-beta-73.vercel.app/api/top-langs/?username=YiSun88&hide_progress=true&hide=java&theme=dark&hide_border=true)
 -->
 
 <!--
