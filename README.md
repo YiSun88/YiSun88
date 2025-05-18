@@ -46,9 +46,13 @@
 </div>
 <br/>
 
+<!--
 ![Yi's GitHub stats](https://github.com/YiSun88/github-readme-stats/raw/resource/grs/stats.svg)
 <br/>
 ![Yi's Top Langs](https://github.com/YiSun88/github-readme-stats/raw/resource/lang/langs.svg)
+-->
+
+
 
 <!--
 Original url from the upstream repo, without Github Action for caching.
